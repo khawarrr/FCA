@@ -1,0 +1,31 @@
+h1, p {
+    text-align: center;
+}
+
+#img-div {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    border: 3px solid black;
+}
+
+#tribute-info {
+    border: 1px solid black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+li {
+    margin: 10px;
+}
+
+#quote {
+    display: block;
+    margin-block-start: 3em;
+    margin-block-end: 1em;
+    margin-inline-start: 60px;
+    margin-inline-end: 40px
+}
